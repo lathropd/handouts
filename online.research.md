@@ -9,4 +9,37 @@ although the information won't always be on the web, your default assumption sho
 you can get the smell of the information there. (Although nothing substitutes for pulling 
 paper at the courthouse.)
 
-## Go
+### Big Mama Google
+
+"Google’s mission is to organize the world’s information and make it universally accessible and useful." (from [google.com/about/company](https://www.google.com/about/company/))
+
+But ... like a good parent, Google won't just tell you. You have to ask nicely.
+
+You can do that with advanced operators:
++ `"quotation marks"` search for a phrase and make it _required_.
+  + putting `allintext:` at the beginning is a shortcut to requiring all words 
+  + use `OR` to specifically call out that not all words are required
+  + use `allintitle:` at the beginning of your search limits your search to words in the page title
++ `-minus` excludes a term `-"or phrase"`
++ `site:url.com` restricts your search to a specific site or _set_ of sites (e.g. subdomain.url.com is included).
+  + `inurl:something` restricts your search to a url _containing_ a specific string 
++ `filetype:file_suffix` restricts your search to a specific type of file (xls or xlsx for Excel, pdf for a PDF, etc.)
++ `link:http://a.url.com/you/want/` limits results to pages which link to that URL
+  + use `allinanchor:` at the beginning of your search limits your search to words in the various links to a page
+
+Also, go to [advanced search](https://www.google.com/advanced_search) to create searches with some additional options.
+
+Remember to check the other Googles, like:
++ Google News at [news.google.com](http://news.google.com/) a.k.a [google.com/news](http://google.com/news)
+  + use the `location:` and `source:` operators
+  + choose time limits from the search interface
++ Google Image Search at [google.com/imghp](http://google.com/imghp) a.k.a [google.com/images](http://google.com/images)
+  + try using advanced operators and/or [advanced image search](https://www.google.com/advanced_image_search) 
++ Google Scholar [scholar.google.com](http://scholar.google.com/) a.k.a. [google.com/scholar](http://google.com/scholar)
+  + look at "Case Law" and try limiting it (e.g. to Iowa Courts)
++ Google Groups (discussion forums) at [groups.google.com](https://groups.google.com/) a.k.a. [google.com/groupd](http://google.com/groups)
+
+And other search engines like:
++ [Bing](http://bing.com)
++ [DuckDuckGo](http://duckduckgo.com)
++ 
