@@ -39,7 +39,29 @@ Remember to check the other Googles, like:
   + look at "Case Law" and try limiting it (e.g. to Iowa Courts)
 + Google Groups (discussion forums) at [groups.google.com](https://groups.google.com/) a.k.a. [google.com/groupd](http://google.com/groups)
 
-And other search engines like:
+... and check other search engines like:
 + [Bing](http://bing.com)
 + [DuckDuckGo](http://duckduckgo.com)
 + 
+
+
+### Prisons and courts (Iowa/Iowa City-centric)
++ Iowa Courts Online [www.iowacourts.state.ia.us](https://www.iowacourts.state.ia.us)
++ Iowa Department of Corrections Offender Information [www.doc.state.ia.us/OffenderInformation](http://www.doc.state.ia.us/OffenderInformation)
++ Johnson County Jail Roster [ww1.johnson-county.com/Sheriff/JailRoster/List](https://ww1.johnson-county.com/Sheriff/JailRoster/List)
++ Iowa City Arrest Roster [www.iowa-city.org/icgov/apps/police/blotter.asp](http://www.iowa-city.org/icgov/apps/police/blotter.asp)
++ Federal civil suits (free) [dockets.justia.com](https://dockets.justia.com)
++ Federal courts (all, paid) [pacer.uspci.uscourts.gov/](http://pacer.uspci.uscourts.gov/)
++ Federal courts (all, free/paid) [www.inforuptcy.com/filings/search-court-filings](https://www.inforuptcy.com/filings/search-court-filings)
+
+### Business and land records
++ Securities and Exchange Commission EDGAR filings [www.sec.gov/edgar/searchedgar/webusers.htm](https://www.sec.gov/edgar/searchedgar/webusers.htm)
++ Iowa business entities [sos.iowa.gov/search/business/search.aspx](https://sos.iowa.gov/search/business/search.aspx)
++ Iowa liens 
+ + UCC liens [sos.iowa.gov/search/ucc/search.aspx](https://sos.iowa.gov/search/ucc/search.aspx) and [sos.iowa.gov/search/uccAlternative/search.aspx](https://sos.iowa.gov/search/uccAlternative/search.aspx)
+ + Mechanic's liens [sos.iowa.gov/mnlr/index.aspx](https://sos.iowa.gov/mnlr/index.aspx)
++ Citizen Audit (IRS 990 nonprofit filings) [citizenaudit.org](https://www.citizenaudit.org) 
++ Johnson County Assessor property records (lots of other Iowa, Minnesota, Indiana, Illinois, South Dakota counties) [beaconbeta.schneidercorp.com/?site=JohnsonCountyIA](https://beaconbeta.schneidercorp.com/?site=JohnsonCountyIA)
++ Iowa City building permits, fines and related [www.iowa-city.org/tm_bin/tmw_cmd.pl?tmw_cmd=StatusQueryForm&tmw_query=PublicCase](http://www.iowa-city.org/tm_bin/tmw_cmd.pl?tmw_cmd=StatusQueryForm&tmw_query=PublicCase)
++ 
+ 
